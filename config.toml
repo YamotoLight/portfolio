@@ -92,10 +92,10 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Predicting Hypertension"
+      subtitle = "Visualization, Classifier, Regression"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "projects/Predicting Hypertension"
 
     [[params.tiles.showcase]]
       title = "Tempus"
