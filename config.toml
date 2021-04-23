@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "Predicting Hypertension"
       subtitle = "Visualization, Classifier, Regression"
       image = "pic01.jpg"
-      url = "https://github.com/YamotoLight/portfolio/blob/master/content/posts/Predicting%20Hypertension/index.html"
+      url = "posts/Predicting Hypertension"
 
     [[params.tiles.showcase]]
       title = "Tempus"
