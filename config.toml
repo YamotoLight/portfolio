@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "Predicting Hypertension"
       subtitle = "Visualization, Classifier, Regression"
       image = "pic01.jpg"
-      url = "posts/Predicting Hypertension"
+      url = "content/posts/Predicting Hypertension/index.html"
 
     [[params.tiles.showcase]]
       title = "Tempus"
