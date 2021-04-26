@@ -52,12 +52,12 @@ disqusShortname = ""
       url = "blogs"
 
     [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "blogs/ipsum"
+     # name = "Generic Blog"
+     # url = "blogs/ipsum"
 
     [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
+      #name = "Elements"
+      #url = "elements.html"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -73,8 +73,8 @@ disqusShortname = ""
 
     # Button Style 2
     [[params.navigation.button2]]
-      name = "Log In"
-      url = "#"
+      #name = "Log In"
+      #url = "#"
 
 
   # Banner section
@@ -84,6 +84,18 @@ disqusShortname = ""
     title = "Hi, my name is Bryan"
     subtitle = "Portfolio for Data Projects"
     buttonText = "Get Started"
+    
+    
+    # Section Type Two
+  [params.two]
+    enable = true
+    title = "About"
+    subtitle = """The development in technology has allowed us to create mass amounts of data both very quickly and cost effectively. 
+    By utilizing these mass amounts of information, we can gain great insights. How can we achieve this? The answer lies in Statistics. 
+    Statistics is the art of data analysis. Using my background in statistics, I seek to help businesses gain leverage with their data."""
+    buttonText = "Get Started"
+    url = "blogs"
+
 
 
   # Tiles Section
@@ -103,29 +115,6 @@ disqusShortname = ""
       image = "pic02.jpg"
       url = "blogs/tempus"
 
-    [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
-
-    [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
-      url = "blogs/ipsum"
-
-    [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic05.jpg"
-      url = "blogs/ipsum"
-
-    [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic06.jpg"
-      url = "blogs/ipsum"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -134,19 +123,6 @@ disqusShortname = ""
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     # To add more blogs just copy and paste the code.
-
-  # Section Type Two
-  [params.two]
-    enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
-    buttonText = "Get Started"
-    url = "blogs"
-
 
   # Contact section
   [params.contact]
