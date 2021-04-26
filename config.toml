@@ -89,10 +89,12 @@ disqusShortname = ""
     # Section Type Two
   [params.two]
     enable = true
-    title = "About"
-    subtitle = """The development in technology has allowed us to create mass amounts of data both very quickly and cost effectively. 
-    By utilizing these mass amounts of information, we can gain great insights. How can we achieve this? The answer lies in Statistics. 
-    Statistics is the art of data analysis. Using my background in statistics, I seek to help businesses gain leverage with their data."""
+    title = "Data Insights & Technology"
+    subtitle = """ I am interested in the way we can gather data and analyze them to help businesses gain insights.
+    One of the most useful advantages of data is to help businesses understand their customers and to provide them better products and services.
+    With the age of big data, we can now analyze anything to help businesses turn insights into action.
+    Sun Tzu once said "If you know the enemy and know yourself, you need not fear the result of a hundred battles."
+    We can utilize his philosophies through the use of data. """
     buttonText = "Get Started"
     url = "blogs"
 
