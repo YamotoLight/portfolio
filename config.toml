@@ -90,9 +90,8 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "Data Insights & Technology"
-    subtitle = """ I am interested in the way we can gather data and analyze them to gain insights.
+    subtitle = """ I am interested in the way we can gather data and analyze them to gain insights and improve communities in all kinds of ways.
     Through data analytics, we can help organizations identify new opportunities and make better decisions. 
-    I am also interested in using data for improving of communities in all kinds of ways. 
     """
     buttonText = "Get Started"
     url = "blogs"
