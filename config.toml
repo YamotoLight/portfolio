@@ -90,9 +90,9 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "Data Insights & Technology"
-    subtitle = """ I am interested in the way we can gather data and analyze them to help businesses gain insights.
-    One of the most useful advantages of data is to help businesses understand their customers and to provide them better products and services.
-    With the age of big data, we can now analyze anything to help businesses turn insights into action.
+    subtitle = """ I am interested in the way we can gather data and analyze them to gain insights.
+    Through data analytics, we can help organizations identify new opportunities and make better decisions. 
+    I am also interested in using data for improving of communities in all kinds of ways. 
     """
     buttonText = "Get Started"
     url = "blogs"
@@ -111,8 +111,8 @@ disqusShortname = ""
       url = "project/Hypertension"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
+      title = "Resume"
+      subtitle = ""
       image = "pic02.jpg"
       url = "blogs/tempus"
 
