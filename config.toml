@@ -91,7 +91,7 @@ disqusShortname = ""
     enable = true
     title = "Data Insights & Technology"
     subtitle = """ I am interested in the way we can gather data and analyze them to gain insights and improve communities in all kinds of ways.
-    Through data analytics, we can help organizations identify new opportunities and make better decisions. 
+    Through data analytics, I hope to help organizations identify new opportunities and make better decisions. 
     """
     buttonText = "Get Started"
     url = "blogs"
