@@ -110,10 +110,10 @@ disqusShortname = ""
       url = "project/Hypertension"
 
     [[params.tiles.showcase]]
-      title = "Resume"
+      title = "Resume-Coop"
       subtitle = ""
       image = "Resume Background.jpg"
-      url = "project/Resume/Resume.pdf"
+      url = "project/Resume/Resume_Coop.pdf"
 
     # You can make more showcases by copy and pasting the code above
 
